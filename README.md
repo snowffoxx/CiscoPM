@@ -1,4 +1,4 @@
 # CiscoPM
-cisco ios proactive maintenance and reporting.
+cisco ios device proactive maintenance and reporting using Nornir and Python
 
-Using Nornir
+Korean: https://blog.boxcorea.com/wp/archives/3129
